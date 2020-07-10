@@ -7,8 +7,8 @@ I'm a software engineer and full stack developer focused on software architectur
 - 🔭 I've experience and work with PHP (Laravel), creating APIs RESTful powerful
 - 🔭 CTO of startup with great growth potential
 - 🌱 Nowadays I'm also working with JavaScript ecosystem, such as: NodeJS, ReactJS, React Native, strong experience with ES6+.
-- 🔭 I serve as a volunteer mentor for the Rocketseat Space Squad project
-- 📫 You can find me and contact on LinkedIn: https://www.linkedin.com/in/yansoares/
+- 🔭 I'm a volunteer mentor at Rocketseat's Space Squad
+- 📫 You can find my contact on LinkedIn: https://www.linkedin.com/in/yansoares/
 
 
 PT-BR
