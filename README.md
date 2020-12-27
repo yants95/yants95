@@ -1,6 +1,9 @@
 ### Hey guys, welcome to my github profile! 👋
 
-I'm a software architect and backend developer focused on software architecture, design patterns, clean code and the best practices of development
+I'm a software architect and backend developer focused on software architecture, design patterns, clean code and the best practices of development.
+
+✓ 🔭 I'm a volunteer mentor at Rocketseat's Space Squad
+✓ 📫 You can find my contact on LinkedIn: https://www.linkedin.com/in/yansoares/
 
 Some tools of my current tech stack
 
@@ -15,9 +18,4 @@ Some tools of my current tech stack
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"><img alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width:100%;" width="30px" align="left"></a>
 </p>
 
-- 🔭 I'm a volunteer mentor at Rocketseat's Space Squad
-- 📫 You can find my contact on LinkedIn: https://www.linkedin.com/in/yansoares/
-
 ![Yan Soares's github stats](https://github-readme-stats.vercel.app/api?username=yants95&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yants95&layout=compact&theme=dracula)
