@@ -1,20 +1,23 @@
 ### Hey guys, welcome to my github profile! 👋
 
-EN
+I'm a software architect and backend developer focused on software architecture, design patterns, clean code and the best practices of development
 
-I'm a software engineer and full stack developer focused on software architecture, design patterns, clean code and the best practices of development
+Some tools of my current tech stack
 
-- 🔭 I've strong experience and work with PHP (Laravel), creating APIs RESTful powerful
-- 🌱 Nowadays I'm also working with JavaScript ecosystem, such as: NodeJS, ReactJS, React Native, strong experience with ES6+.
+<p>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"><img alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width:100%;" width="30px" align="left"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"><img alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" style="max-width:100%;" width="30px" align="left"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;" width="30px" align="left"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><img alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;" width="30px" align="left"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;" width="30px" align="left"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"><img alt="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" style="max-width:100%;" width="30px" align="left"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" style="max-width:100%;" width="30px" align="left"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"><img alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width:100%;" width="30px" align="left"></a>
+</p>
+
 - 🔭 I'm a volunteer mentor at Rocketseat's Space Squad
 - 📫 You can find my contact on LinkedIn: https://www.linkedin.com/in/yansoares/
 
+![Yan Soares's github stats](https://github-readme-stats.vercel.app/api?username=yants95&show_icons=true&theme=dracula)
 
-PT-BR
-
-Sou engenheiro de software e desenvolvedor full stack focado em arquitetura de software, padrões de design, código limpo e melhores práticas de desenvolvimento
-
-- 🔭 Tenho forte experiência e trabalho com PHP (Laravel), criando APIs RESTful poderosas
-- 🌱 Também trabalho com o ecossistema JavaScript, com: NodeJS, ReactJS, React Native, com forte experiência no ES6+.
-- 🔭 Atuo como mentor voluntário do projeto Space Squad da Rocketseat
-- 📫 Você pode me encontrar e entrar em contato no LinkedIn: https://www.linkedin.com/in/yansoares/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yants95&layout=compact&theme=dracula)
