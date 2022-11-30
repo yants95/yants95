@@ -3,6 +3,7 @@
 I'm a software architect and backend developer focused on software architecture, design patterns, clean code and the best practices of development.
 
 ✓ 🔭 I'm a volunteer mentor at Rocketseat's Space Squad
+<br />
 ✓ 🔭 I'm a moderator on Rocketseat's discord server
 <br />
 ✓ 📫 You can find my contact on LinkedIn: https://www.linkedin.com/in/yansoares/
