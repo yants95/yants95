@@ -2,11 +2,6 @@
 
 I'm a seasoned senior software engineer specialized in backend focused on software architecture, design patterns, clean code and the best practices of development.
 
-✓ 🔭 I'm a moderator on Rocketseat discord server
-<br />
-✓ 📫 You can find my contact on LinkedIn: https://www.linkedin.com/in/yansoares/
-<br />
-
 Currently I work with:
 
 ✓ JavaScript | TypeScript
